@@ -1,0 +1,11 @@
+C:\Users\Kodu\Desktop\Homeworkassignment_5\Homeworkassignment_5\bin\Debug\netcoreapp2.1\Homeworkassignment_5.deps.json
+C:\Users\Kodu\Desktop\Homeworkassignment_5\Homeworkassignment_5\bin\Debug\netcoreapp2.1\Homeworkassignment_5.runtimeconfig.json
+C:\Users\Kodu\Desktop\Homeworkassignment_5\Homeworkassignment_5\bin\Debug\netcoreapp2.1\Homeworkassignment_5.runtimeconfig.dev.json
+C:\Users\Kodu\Desktop\Homeworkassignment_5\Homeworkassignment_5\bin\Debug\netcoreapp2.1\Homeworkassignment_5.dll
+C:\Users\Kodu\Desktop\Homeworkassignment_5\Homeworkassignment_5\bin\Debug\netcoreapp2.1\Homeworkassignment_5.pdb
+C:\Users\Kodu\Desktop\Homeworkassignment_5\Homeworkassignment_5\obj\Debug\netcoreapp2.1\Homeworkassignment_5.csprojAssemblyReference.cache
+C:\Users\Kodu\Desktop\Homeworkassignment_5\Homeworkassignment_5\obj\Debug\netcoreapp2.1\Homeworkassignment_5.csproj.CoreCompileInputs.cache
+C:\Users\Kodu\Desktop\Homeworkassignment_5\Homeworkassignment_5\obj\Debug\netcoreapp2.1\Homeworkassignment_5.AssemblyInfoInputs.cache
+C:\Users\Kodu\Desktop\Homeworkassignment_5\Homeworkassignment_5\obj\Debug\netcoreapp2.1\Homeworkassignment_5.AssemblyInfo.cs
+C:\Users\Kodu\Desktop\Homeworkassignment_5\Homeworkassignment_5\obj\Debug\netcoreapp2.1\Homeworkassignment_5.dll
+C:\Users\Kodu\Desktop\Homeworkassignment_5\Homeworkassignment_5\obj\Debug\netcoreapp2.1\Homeworkassignment_5.pdb
